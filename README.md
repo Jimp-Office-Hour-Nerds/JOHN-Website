@@ -2,7 +2,8 @@
 
 $ git clone https://github.com/Jimp-Office-Hour-Nerds/JOHN-Website.git
 
-Create a new branch
+Create a new branch:
+
 $ git checkout -b [name_of_your_new_branch]
 
 Push the branch on github :
